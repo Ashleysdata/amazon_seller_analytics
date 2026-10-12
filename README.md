@@ -13,7 +13,11 @@ GitHub Actions runs the whole thing every morning, commits the new data, and ref
 ## Today's numbers
 
 <!-- KPI:START -->
+<<<<<<< HEAD
 **Data through 2026-10-11** � last pipeline run 2026-10-12 22:02 UTC
+=======
+**Data through 2026-10-11** · last pipeline run 2026-10-12 22:05 UTC
+>>>>>>> b4629232b502cd7b431986ad443dd89b0564f443
 
 | Last 7 days | Value |
 |---|---|
