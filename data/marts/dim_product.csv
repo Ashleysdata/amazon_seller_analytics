@@ -1,0 +1,13 @@
+sku,asin,title,category,list_price,unit_cost,fba_fee,referral_fee,unit_margin_before_ads,breakeven_acos,lead_time_days
+NBH-KT-001,B0CK1T0001,Silicone Spatula Set (5 pc),Kitchen,19.99,4.10,4.25,3.00,8.64,0.4323,12
+NBH-KT-002,B0CK1T0002,Bamboo Cutting Board (Large),Kitchen,29.99,7.80,5.40,4.50,12.29,0.4099,14
+NBH-KT-003,B0CK1T0003,Glass Meal Prep Containers (10 pk),Kitchen,34.99,9.60,6.10,5.25,14.04,0.4013,14
+NBH-HM-001,B0CH0M0001,Linen Throw Pillow Covers (2 pk),Home,24.99,5.20,4.75,3.75,11.29,0.4518,10
+NBH-HM-002,B0CH0M0002,Under-Bed Storage Bags (3 pk),Home,27.99,6.40,5.90,4.20,11.49,0.4106,12
+NBH-HM-003,B0CH0M0003,Motion Sensor Closet Lights (4 pk),Home,21.99,5.10,4.40,3.30,9.19,0.418,16
+NBH-BT-001,B0CB3T0001,Jade Facial Roller & Gua Sha Set,Beauty,16.99,2.90,3.95,2.55,7.59,0.4468,10
+NBH-BT-002,B0CB3T0002,"Satin Pillowcase (Queen, 2 pk)",Beauty,18.99,3.70,4.10,2.85,8.34,0.4393,12
+NBH-PT-001,B0CP3T0001,Dog Lick Mat (2 pk),Pet,14.99,2.40,3.80,2.25,6.54,0.4364,10
+NBH-PT-002,B0CP3T0002,Cat Window Perch,Pet,32.99,8.90,6.30,4.95,12.84,0.3893,15
+NBH-PT-003,B0CP3T0003,Pet Hair Remover Roller,Pet,23.99,4.60,4.50,3.60,11.29,0.4707,12
+NBH-OF-001,B0C0FF0001,Monitor Stand Riser with Drawer,Office,39.99,11.20,7.20,6.00,15.59,0.3899,16

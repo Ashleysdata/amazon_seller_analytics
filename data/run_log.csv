@@ -1,0 +1,2 @@
+run_at_utc,data_through,raw_order_rows,order_lines_after_dedup,duplicates_removed,checks_passed,checks_warned,checks_failed
+2026-10-12 19:07:14,2026-10-11,16372,16234,138,11,0,0
