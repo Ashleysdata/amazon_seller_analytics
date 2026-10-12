@@ -1,0 +1,13 @@
+sku,asin,title,category,list_price,unit_cost,fba_fee,base_daily_units,lead_time_days
+NBH-KT-001,B0CK1T0001,Silicone Spatula Set (5 pc),Kitchen,19.99,4.1,4.25,22,12
+NBH-KT-002,B0CK1T0002,Bamboo Cutting Board (Large),Kitchen,29.99,7.8,5.4,14,14
+NBH-KT-003,B0CK1T0003,Glass Meal Prep Containers (10 pk),Kitchen,34.99,9.6,6.1,18,14
+NBH-HM-001,B0CH0M0001,Linen Throw Pillow Covers (2 pk),Home,24.99,5.2,4.75,16,10
+NBH-HM-002,B0CH0M0002,Under-Bed Storage Bags (3 pk),Home,27.99,6.4,5.9,12,12
+NBH-HM-003,B0CH0M0003,Motion Sensor Closet Lights (4 pk),Home,21.99,5.1,4.4,20,16
+NBH-BT-001,B0CB3T0001,Jade Facial Roller & Gua Sha Set,Beauty,16.99,2.9,3.95,25,10
+NBH-BT-002,B0CB3T0002,"Satin Pillowcase (Queen, 2 pk)",Beauty,18.99,3.7,4.1,19,12
+NBH-PT-001,B0CP3T0001,Dog Lick Mat (2 pk),Pet,14.99,2.4,3.8,30,10
+NBH-PT-002,B0CP3T0002,Cat Window Perch,Pet,32.99,8.9,6.3,9,15
+NBH-PT-003,B0CP3T0003,Pet Hair Remover Roller,Pet,23.99,4.6,4.5,24,12
+NBH-OF-001,B0C0FF0001,Monitor Stand Riser with Drawer,Office,39.99,11.2,7.2,11,16

@@ -14,7 +14,7 @@ pipeline is idempotent: running it twice produces the same result.
 
 from __future__ import annotations
 
-import sys
+import sys 
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -215,7 +215,8 @@ def append_run_log(con: duckdb.DuckDBPyConnection, checks: list[dict]) -> None:
 
 def main() -> int:
     con = duckdb.connect()  # in-memory warehouse, rebuilt from raw files each run
-    con.register("seed_products", pd.DataFrame(PRODUCTS, columns=PRODUCT_COLUMNS))
+    # Load the product catalog from a visible seed file (dbt-style seed)
+    con.register("seed_products", pd.read_csv(ROOT / "data" / "seeds" / "products.csv"))
 
     print("Building models...")
     run_sql_models(con)

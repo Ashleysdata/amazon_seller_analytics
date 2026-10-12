@@ -1,6 +1,6 @@
 # Amazon Seller Analytics Pipeline
 
-![Daily pipeline](https://github.com/Ashleysdata/amazon-seller-analytics/actions/workflows/daily-pipeline.yml/badge.svg)
+![Daily pipeline](https://github.com/Ashleysdata/amazon_seller_analytics/actions/workflows/daily-pipeline.yml/badge.svg)
 
 A daily ELT pipeline for an Amazon FBA seller account. It lands the three reports a seller pulls from Seller Central every morning (orders, Sponsored Products ads, FBA inventory), cleans them, models them into a small star schema in DuckDB, tests the data, and answers the questions a seller actually asks:
 
@@ -13,7 +13,7 @@ GitHub Actions runs the whole thing every morning, commits the new data, and ref
 ## Today's numbers
 
 <!-- KPI:START -->
-**Data through 2026-10-11** · last pipeline run 2026-10-12 19:07 UTC
+**Data through 2026-10-11** � last pipeline run 2026-10-12 22:02 UTC
 
 | Last 7 days | Value |
 |---|---|
@@ -27,7 +27,7 @@ GitHub Actions runs the whole thing every morning, commits the new data, and ref
 
 No SKUs at risk of stocking out.
 
-**Campaigns losing money (last 30 days)** · 7 campaign(s) flagged to scale up
+**Campaigns losing money (last 30 days)** � 7 campaign(s) flagged to scale up
 
 | Campaign | ACoS | Break-even ACoS | Ad profit | Action |
 |---|---|---|---|---|
