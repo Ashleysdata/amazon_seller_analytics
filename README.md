@@ -13,15 +13,15 @@ GitHub Actions runs the whole thing every morning, commits the new data, and ref
 ## Today's numbers
 
 <!-- KPI:START -->
-**Data through 2026-10-12** · last pipeline run 2026-10-13 20:17 UTC
+**Data through 2026-10-13** · last pipeline run 2026-10-14 18:42 UTC
 
 | Last 7 days | Value |
 |---|---|
-| Net sales | $34,333 (+6.4% vs prior 7 days) |
-| Orders | 995 |
-| ACoS (ad spend / ad sales) | 33.0% |
-| TACoS (ad spend / total sales) | 10.6% |
-| Contribution margin after ads | 31.8% |
+| Net sales | $33,810 (+0.3% vs prior 7 days) |
+| Orders | 978 |
+| ACoS (ad spend / ad sales) | 32.8% |
+| TACoS (ad spend / total sales) | 10.7% |
+| Contribution margin after ads | 31.6% |
 
 **Inventory alerts**
 
@@ -31,11 +31,11 @@ No SKUs at risk of stocking out.
 
 | Campaign | ACoS | Break-even ACoS | Ad profit | Action |
 |---|---|---|---|---|
-| SP / NBH-KT-002 / Phrase | 64.6% | 41.0% | $-297 | Cut bids: losing money |
-| SP / NBH-KT-001 / Phrase | 64.7% | 43.2% | $-249 | Cut bids: losing money |
-| SP / NBH-PT-003 / Phrase | 61.2% | 47.1% | $-201 | Cut bids: losing money |
-| SP / NBH-HM-002 / Phrase | 51.4% | 41.1% | $-79 | Cut bids: losing money |
-| SP / NBH-PT-002 / Phrase | 47.5% | 38.9% | $-65 | Cut bids: losing money |
+| SP / NBH-KT-002 / Phrase | 63.9% | 41.0% | $-296 | Cut bids: losing money |
+| SP / NBH-KT-001 / Phrase | 63.1% | 43.2% | $-235 | Cut bids: losing money |
+| SP / NBH-PT-003 / Phrase | 61.5% | 47.1% | $-204 | Cut bids: losing money |
+| SP / NBH-HM-002 / Phrase | 53.3% | 41.1% | $-89 | Cut bids: losing money |
+| SP / NBH-KT-002 / Auto | 48.9% | 41.0% | $-72 | Cut bids: losing money |
 <!-- KPI:END -->
 
 ![Dashboard](reports/dashboard.png)
