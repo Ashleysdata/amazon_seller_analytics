@@ -13,13 +13,13 @@ GitHub Actions runs the whole thing every morning, commits the new data, and ref
 ## Today's numbers
 
 <!-- KPI:START -->
-**Data through 2026-10-17** · last pipeline run 2026-10-18 17:26 UTC
+**Data through 2026-10-18** · last pipeline run 2026-10-19 20:00 UTC
 
 | Last 7 days | Value |
 |---|---|
-| Net sales | $37,180 (+12.2% vs prior 7 days) |
-| Orders | 1,092 |
-| ACoS (ad spend / ad sales) | 31.3% |
+| Net sales | $37,343 (+9.4% vs prior 7 days) |
+| Orders | 1,089 |
+| ACoS (ad spend / ad sales) | 31.7% |
 | TACoS (ad spend / total sales) | 10.1% |
 | Contribution margin after ads | 32.2% |
 
@@ -27,17 +27,17 @@ GitHub Actions runs the whole thing every morning, commits the new data, and ref
 
 | SKU | Product | On hand | Days of cover | Days until restock | Status |
 |---|---|---|---|---|---|
-| NBH-HM-002 | Under-Bed Storage Bags (3 pk) | 150 | 14.0 | 15 | Stockout risk |
+| NBH-HM-002 | Under-Bed Storage Bags (3 pk) | 138 | 12.7 | 14 | Stockout risk |
 
 **Campaigns losing money (last 30 days)** · 7 campaign(s) flagged to scale up
 
 | Campaign | ACoS | Break-even ACoS | Ad profit | Action |
 |---|---|---|---|---|
-| SP / NBH-KT-002 / Phrase | 67.9% | 41.0% | $-323 | Cut bids: losing money |
-| SP / NBH-PT-003 / Phrase | 68.2% | 47.1% | $-269 | Cut bids: losing money |
-| SP / NBH-KT-001 / Phrase | 64.9% | 43.2% | $-256 | Cut bids: losing money |
-| SP / NBH-HM-002 / Phrase | 54.6% | 41.1% | $-99 | Cut bids: losing money |
-| SP / NBH-PT-002 / Phrase | 48.0% | 38.9% | $-69 | Cut bids: losing money |
+| SP / NBH-KT-002 / Phrase | 70.6% | 41.0% | $-346 | Cut bids: losing money |
+| SP / NBH-KT-001 / Phrase | 66.2% | 43.2% | $-266 | Cut bids: losing money |
+| SP / NBH-PT-003 / Phrase | 62.6% | 47.1% | $-217 | Cut bids: losing money |
+| SP / NBH-HM-002 / Phrase | 55.2% | 41.1% | $-103 | Cut bids: losing money |
+| SP / NBH-PT-002 / Phrase | 47.9% | 38.9% | $-68 | Cut bids: losing money |
 <!-- KPI:END -->
 
 ![Dashboard](reports/dashboard.png)

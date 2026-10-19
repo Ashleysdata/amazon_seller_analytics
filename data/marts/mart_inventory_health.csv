@@ -1,13 +1,13 @@
 as_of_date,sku,title,fulfillable_qty,inbound_qty,inbound_eta,avg_daily_units_28d,days_of_cover,days_until_restock,days_out_of_stock_all_time,est_lost_revenue_all_time,status
-2026-10-17,NBH-HM-002,Under-Bed Storage Bags (3 pk),150,601,2026-11-01,10.8,14.0,15,0,0.0,Stockout risk
-2026-10-17,NBH-BT-002,"Satin Pillowcase (Queen, 2 pk)",216,1087,2026-10-27,15.4,14.0,10,0,0.0,Healthy
-2026-10-17,NBH-PT-001,Dog Lick Mat (2 pk),487,0,,30.6,15.9,10,7,3057.0,Healthy
-2026-10-17,NBH-KT-001,Silicone Spatula Set (5 pc),437,0,,21.6,20.2,12,2,848.0,Healthy
-2026-10-17,NBH-PT-002,Cat Window Perch,180,0,,8.5,21.2,15,0,0.0,Healthy
-2026-10-17,NBH-OF-001,Monitor Stand Riser with Drawer,272,0,,11.4,23.9,16,8,3356.0,Healthy
-2026-10-17,NBH-KT-003,Glass Meal Prep Containers (10 pk),586,0,,18.5,31.6,14,1,593.0,Healthy
-2026-10-17,NBH-BT-001,Jade Facial Roller & Gua Sha Set,988,0,,25.1,39.3,10,14,5566.0,Healthy
-2026-10-17,NBH-HM-001,Linen Throw Pillow Covers (2 pk),674,0,,17.0,39.6,10,2,785.0,Healthy
-2026-10-17,NBH-HM-003,Motion Sensor Closet Lights (4 pk),728,0,,16.9,43.1,16,0,0.0,Healthy
-2026-10-17,NBH-PT-003,Pet Hair Remover Roller,975,0,,21.1,46.1,12,0,0.0,Healthy
-2026-10-17,NBH-KT-002,Bamboo Cutting Board (Large),576,0,,10.8,53.3,14,8,2655.0,Healthy
+2026-10-18,NBH-BT-002,"Satin Pillowcase (Queen, 2 pk)",193,1087,2026-10-27,15.8,12.2,9,0,0.0,Healthy
+2026-10-18,NBH-HM-002,Under-Bed Storage Bags (3 pk),138,601,2026-11-01,10.9,12.7,14,0,0.0,Stockout risk
+2026-10-18,NBH-PT-001,Dog Lick Mat (2 pk),453,0,,30.7,14.7,10,7,3061.0,Healthy
+2026-10-18,NBH-KT-001,Silicone Spatula Set (5 pc),422,0,,21.4,19.7,12,2,846.0,Healthy
+2026-10-18,NBH-PT-002,Cat Window Perch,172,0,,8.4,20.6,15,0,0.0,Healthy
+2026-10-18,NBH-OF-001,Monitor Stand Riser with Drawer,262,0,,11.4,23.0,16,8,3355.0,Healthy
+2026-10-18,NBH-KT-003,Glass Meal Prep Containers (10 pk),554,0,,19.0,29.1,14,1,597.0,Healthy
+2026-10-18,NBH-BT-001,Jade Facial Roller & Gua Sha Set,958,0,,25.6,37.4,10,14,5580.0,Healthy
+2026-10-18,NBH-HM-001,Linen Throw Pillow Covers (2 pk),655,0,,17.1,38.3,10,2,786.0,Healthy
+2026-10-18,NBH-HM-003,Motion Sensor Closet Lights (4 pk),706,0,,17.0,41.5,16,0,0.0,Healthy
+2026-10-18,NBH-PT-003,Pet Hair Remover Roller,951,0,,21.1,45.0,12,0,0.0,Healthy
+2026-10-18,NBH-KT-002,Bamboo Cutting Board (Large),562,0,,10.8,52.0,14,8,2661.0,Healthy
