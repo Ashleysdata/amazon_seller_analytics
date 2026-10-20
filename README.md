@@ -13,31 +13,32 @@ GitHub Actions runs the whole thing every morning, commits the new data, and ref
 ## Today's numbers
 
 <!-- KPI:START -->
-**Data through 2026-10-18** · last pipeline run 2026-10-19 20:00 UTC
+**Data through 2026-10-19** · last pipeline run 2026-10-20 18:31 UTC
 
 | Last 7 days | Value |
 |---|---|
-| Net sales | $37,343 (+9.4% vs prior 7 days) |
-| Orders | 1,089 |
-| ACoS (ad spend / ad sales) | 31.7% |
-| TACoS (ad spend / total sales) | 10.1% |
-| Contribution margin after ads | 32.2% |
+| Net sales | $37,597 (+9.5% vs prior 7 days) |
+| Orders | 1,093 |
+| ACoS (ad spend / ad sales) | 31.9% |
+| TACoS (ad spend / total sales) | 10.0% |
+| Contribution margin after ads | 32.3% |
 
 **Inventory alerts**
 
 | SKU | Product | On hand | Days of cover | Days until restock | Status |
 |---|---|---|---|---|---|
-| NBH-HM-002 | Under-Bed Storage Bags (3 pk) | 138 | 12.7 | 14 | Stockout risk |
+| NBH-HM-002 | Under-Bed Storage Bags (3 pk) | 122 | 10.9 | 13 | Stockout risk |
+| NBH-PT-002 | Cat Window Perch | 163 | 19.5 | 21 | Stockout risk |
 
 **Campaigns losing money (last 30 days)** · 7 campaign(s) flagged to scale up
 
 | Campaign | ACoS | Break-even ACoS | Ad profit | Action |
 |---|---|---|---|---|
-| SP / NBH-KT-002 / Phrase | 70.6% | 41.0% | $-346 | Cut bids: losing money |
-| SP / NBH-KT-001 / Phrase | 66.2% | 43.2% | $-266 | Cut bids: losing money |
-| SP / NBH-PT-003 / Phrase | 62.6% | 47.1% | $-217 | Cut bids: losing money |
-| SP / NBH-HM-002 / Phrase | 55.2% | 41.1% | $-103 | Cut bids: losing money |
-| SP / NBH-PT-002 / Phrase | 47.9% | 38.9% | $-68 | Cut bids: losing money |
+| SP / NBH-KT-002 / Phrase | 69.1% | 41.0% | $-337 | Cut bids: losing money |
+| SP / NBH-KT-001 / Phrase | 65.9% | 43.2% | $-272 | Cut bids: losing money |
+| SP / NBH-PT-003 / Phrase | 59.6% | 47.1% | $-184 | Cut bids: losing money |
+| SP / NBH-PT-002 / Phrase | 48.5% | 38.9% | $-73 | Cut bids: losing money |
+| SP / NBH-HM-002 / Phrase | 48.7% | 41.1% | $-64 | Cut bids: losing money |
 <!-- KPI:END -->
 
 ![Dashboard](reports/dashboard.png)
