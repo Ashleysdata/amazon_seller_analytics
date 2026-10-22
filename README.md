@@ -13,13 +13,13 @@ GitHub Actions runs the whole thing every morning, commits the new data, and ref
 ## Today's numbers
 
 <!-- KPI:START -->
-**Data through 2026-10-20** · last pipeline run 2026-10-21 18:44 UTC
+**Data through 2026-10-21** · last pipeline run 2026-10-22 18:37 UTC
 
 | Last 7 days | Value |
 |---|---|
-| Net sales | $37,441 (+10.7% vs prior 7 days) |
-| Orders | 1,097 |
-| ACoS (ad spend / ad sales) | 33.4% |
+| Net sales | $37,108 (+7.9% vs prior 7 days) |
+| Orders | 1,108 |
+| ACoS (ad spend / ad sales) | 33.3% |
 | TACoS (ad spend / total sales) | 10.3% |
 | Contribution margin after ads | 32.0% |
 
@@ -27,19 +27,19 @@ GitHub Actions runs the whole thing every morning, commits the new data, and ref
 
 | SKU | Product | On hand | Days of cover | Days until restock | Status |
 |---|---|---|---|---|---|
-| NBH-HM-002 | Under-Bed Storage Bags (3 pk) | 113 | 10.2 | 12 | Stockout risk |
-| NBH-PT-001 | Dog Lick Mat (2 pk) | 394 | 12.9 | 22 | Stockout risk |
-| NBH-PT-002 | Cat Window Perch | 155 | 18.6 | 20 | Stockout risk |
+| NBH-HM-002 | Under-Bed Storage Bags (3 pk) | 99 | 8.8 | 11 | Stockout risk |
+| NBH-PT-001 | Dog Lick Mat (2 pk) | 364 | 11.9 | 21 | Stockout risk |
+| NBH-PT-002 | Cat Window Perch | 149 | 18.0 | 19 | Stockout risk |
 
 **Campaigns losing money (last 30 days)** · 8 campaign(s) flagged to scale up
 
 | Campaign | ACoS | Break-even ACoS | Ad profit | Action |
 |---|---|---|---|---|
-| SP / NBH-KT-002 / Phrase | 66.6% | 41.0% | $-315 | Cut bids: losing money |
-| SP / NBH-KT-001 / Phrase | 66.8% | 43.2% | $-288 | Cut bids: losing money |
-| SP / NBH-PT-003 / Phrase | 56.6% | 47.1% | $-147 | Cut bids: losing money |
-| SP / NBH-HM-002 / Phrase | 47.7% | 41.1% | $-56 | Cut bids: losing money |
-| SP / NBH-PT-002 / Phrase | 45.5% | 38.9% | $-52 | Cut bids: losing money |
+| SP / NBH-KT-002 / Phrase | 65.4% | 41.0% | $-301 | Cut bids: losing money |
+| SP / NBH-KT-001 / Phrase | 67.2% | 43.2% | $-293 | Cut bids: losing money |
+| SP / NBH-PT-003 / Phrase | 56.3% | 47.1% | $-144 | Cut bids: losing money |
+| SP / NBH-PT-002 / Phrase | 45.2% | 38.9% | $-50 | Cut bids: losing money |
+| SP / NBH-HM-002 / Phrase | 45.5% | 41.1% | $-40 | Cut bids: losing money |
 <!-- KPI:END -->
 
 ![Dashboard](reports/dashboard.png)
