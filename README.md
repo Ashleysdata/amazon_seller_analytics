@@ -13,33 +13,33 @@ GitHub Actions runs the whole thing every morning, commits the new data, and ref
 ## Today's numbers
 
 <!-- KPI:START -->
-**Data through 2026-10-26** · last pipeline run 2026-10-27 19:28 UTC
+**Data through 2026-10-27** · last pipeline run 2026-10-28 19:38 UTC
 
 | Last 7 days | Value |
 |---|---|
-| Net sales | $36,659 (-2.5% vs prior 7 days) |
-| Orders | 1,098 |
-| ACoS (ad spend / ad sales) | 34.4% |
-| TACoS (ad spend / total sales) | 10.0% |
+| Net sales | $37,029 (-1.1% vs prior 7 days) |
+| Orders | 1,095 |
+| ACoS (ad spend / ad sales) | 34.0% |
+| TACoS (ad spend / total sales) | 9.9% |
 | Contribution margin after ads | 32.3% |
 
 **Inventory alerts**
 
 | SKU | Product | On hand | Days of cover | Days until restock | Status |
 |---|---|---|---|---|---|
-| NBH-HM-002 | Under-Bed Storage Bags (3 pk) | 33 | 2.8 | 6 | Stockout risk |
-| NBH-PT-001 | Dog Lick Mat (2 pk) | 207 | 6.6 | 16 | Stockout risk |
-| NBH-PT-002 | Cat Window Perch | 99 | 11.5 | 14 | Stockout risk |
+| NBH-HM-002 | Under-Bed Storage Bags (3 pk) | 18 | 1.5 | 5 | Stockout risk |
+| NBH-PT-001 | Dog Lick Mat (2 pk) | 184 | 6.0 | 15 | Stockout risk |
+| NBH-PT-002 | Cat Window Perch | 84 | 9.4 | 13 | Stockout risk |
 
 **Campaigns losing money (last 30 days)** · 8 campaign(s) flagged to scale up
 
 | Campaign | ACoS | Break-even ACoS | Ad profit | Action |
 |---|---|---|---|---|
-| SP / NBH-KT-002 / Phrase | 71.0% | 41.0% | $-324 | Cut bids: losing money |
-| SP / NBH-KT-001 / Phrase | 63.5% | 43.2% | $-268 | Cut bids: losing money |
+| SP / NBH-KT-002 / Phrase | 72.3% | 41.0% | $-338 | Cut bids: losing money |
+| SP / NBH-KT-001 / Phrase | 64.0% | 43.2% | $-274 | Cut bids: losing money |
 | SP / NBH-PT-003 / Phrase | 59.8% | 47.1% | $-187 | Cut bids: losing money |
-| SP / NBH-HM-002 / Phrase | 48.3% | 41.1% | $-63 | Cut bids: losing money |
-| SP / NBH-OF-001 / Auto | 42.4% | 39.0% | $-42 | Cut bids: losing money |
+| SP / NBH-OF-001 / Auto | 43.4% | 39.0% | $-51 | Cut bids: losing money |
+| SP / NBH-HM-002 / Phrase | 45.2% | 41.1% | $-38 | Cut bids: losing money |
 <!-- KPI:END -->
 
 ![Dashboard](reports/dashboard.png)
