@@ -13,13 +13,13 @@ GitHub Actions runs the whole thing every morning, commits the new data, and ref
 ## Today's numbers
 
 <!-- KPI:START -->
-**Data through 2026-10-31** · last pipeline run 2026-11-01 18:59 UTC
+**Data through 2026-11-01** · last pipeline run 2026-11-02 22:49 UTC
 
 | Last 7 days | Value |
 |---|---|
-| Net sales | $36,149 (-2.5% vs prior 7 days) |
-| Orders | 1,042 |
-| ACoS (ad spend / ad sales) | 34.8% |
+| Net sales | $36,621 (-1.5% vs prior 7 days) |
+| Orders | 1,056 |
+| ACoS (ad spend / ad sales) | 34.6% |
 | TACoS (ad spend / total sales) | 10.6% |
 | Contribution margin after ads | 31.4% |
 
@@ -27,19 +27,18 @@ GitHub Actions runs the whole thing every morning, commits the new data, and ref
 
 | SKU | Product | On hand | Days of cover | Days until restock | Status |
 |---|---|---|---|---|---|
-| NBH-HM-002 | Under-Bed Storage Bags (3 pk) | 0 | 0.0 | 1 | OUT OF STOCK |
-| NBH-PT-001 | Dog Lick Mat (2 pk) | 62 | 2.0 | 11 | Stockout risk |
-| NBH-PT-002 | Cat Window Perch | 31 | 3.1 | 9 | Stockout risk |
+| NBH-PT-001 | Dog Lick Mat (2 pk) | 17 | 0.5 | 10 | Stockout risk |
+| NBH-PT-002 | Cat Window Perch | 15 | 1.5 | 8 | Stockout risk |
 
 **Campaigns losing money (last 30 days)** · 8 campaign(s) flagged to scale up
 
 | Campaign | ACoS | Break-even ACoS | Ad profit | Action |
 |---|---|---|---|---|
-| SP / NBH-KT-002 / Phrase | 69.3% | 41.0% | $-315 | Cut bids: losing money |
-| SP / NBH-KT-001 / Phrase | 64.2% | 43.2% | $-272 | Cut bids: losing money |
-| SP / NBH-PT-003 / Phrase | 59.4% | 47.1% | $-181 | Cut bids: losing money |
-| SP / NBH-HM-003 / Phrase | 45.3% | 41.8% | $-49 | Cut bids: losing money |
-| SP / NBH-OF-001 / Auto | 42.9% | 39.0% | $-45 | Cut bids: losing money |
+| SP / NBH-KT-002 / Phrase | 70.5% | 41.0% | $-327 | Cut bids: losing money |
+| SP / NBH-KT-001 / Phrase | 62.6% | 43.2% | $-259 | Cut bids: losing money |
+| SP / NBH-PT-003 / Phrase | 61.9% | 47.1% | $-213 | Cut bids: losing money |
+| SP / NBH-HM-003 / Phrase | 46.7% | 41.8% | $-67 | Cut bids: losing money |
+| SP / NBH-HM-002 / Phrase | 46.8% | 41.1% | $-49 | Cut bids: losing money |
 <!-- KPI:END -->
 
 ![Dashboard](reports/dashboard.png)
