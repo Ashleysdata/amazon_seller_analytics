@@ -1,13 +1,13 @@
 as_of_date,sku,title,fulfillable_qty,inbound_qty,inbound_eta,avg_daily_units_28d,days_of_cover,days_until_restock,days_out_of_stock_all_time,est_lost_revenue_all_time,status
-2026-11-01,NBH-PT-001,Dog Lick Mat (2 pk),17,1438,2026-11-11,31.6,0.5,10,7,3083.0,Stockout risk
-2026-11-01,NBH-PT-002,Cat Window Perch,15,506,2026-11-09,10.2,1.5,8,0,0.0,Stockout risk
-2026-11-01,NBH-KT-001,Silicone Spatula Set (5 pc),94,891,2026-11-03,22.9,4.1,2,2,855.0,Healthy
-2026-11-01,NBH-OF-001,Monitor Stand Riser with Drawer,115,464,2026-11-08,10.8,10.7,7,8,3356.0,Healthy
-2026-11-01,NBH-KT-003,Glass Meal Prep Containers (10 pk),301,962,2026-11-14,18.4,16.3,13,1,600.0,Healthy
-2026-11-01,NBH-BT-001,Jade Facial Roller & Gua Sha Set,539,0,,28.1,19.2,10,14,5750.0,Healthy
-2026-11-01,NBH-HM-001,Linen Throw Pillow Covers (2 pk),397,0,,18.1,21.9,10,2,800.0,Healthy
-2026-11-01,NBH-HM-003,Motion Sensor Closet Lights (4 pk),431,0,,18.5,23.3,16,0,0.0,Healthy
-2026-11-01,NBH-PT-003,Pet Hair Remover Roller,635,0,,22.9,27.7,12,0,0.0,Healthy
-2026-11-01,NBH-KT-002,Bamboo Cutting Board (Large),385,0,,11.6,33.2,14,8,2700.0,Healthy
-2026-11-01,NBH-HM-002,Under-Bed Storage Bags (3 pk),582,0,,12.6,46.3,12,3,954.0,Healthy
-2026-11-01,NBH-BT-002,"Satin Pillowcase (Queen, 2 pk)",1037,0,,17.3,59.9,12,0,0.0,Healthy
+2026-11-02,NBH-PT-001,Dog Lick Mat (2 pk),2,1438,2026-11-11,31.2,0.1,9,7,3072.0,Stockout risk
+2026-11-02,NBH-PT-002,Cat Window Perch,3,506,2026-11-09,10.3,0.3,7,0,0.0,Stockout risk
+2026-11-02,NBH-KT-001,Silicone Spatula Set (5 pc),71,891,2026-11-03,22.6,3.1,1,2,856.0,Healthy
+2026-11-02,NBH-OF-001,Monitor Stand Riser with Drawer,105,464,2026-11-08,10.6,9.9,6,8,3354.0,Healthy
+2026-11-02,NBH-KT-003,Glass Meal Prep Containers (10 pk),282,962,2026-11-14,18.5,15.3,12,1,601.0,Healthy
+2026-11-02,NBH-BT-001,Jade Facial Roller & Gua Sha Set,511,0,,28.3,18.1,10,14,5757.0,Healthy
+2026-11-02,NBH-HM-001,Linen Throw Pillow Covers (2 pk),372,0,,18.0,20.6,10,2,803.0,Healthy
+2026-11-02,NBH-HM-003,Motion Sensor Closet Lights (4 pk),408,0,,18.8,21.8,16,0,0.0,Healthy
+2026-11-02,NBH-PT-003,Pet Hair Remover Roller,615,0,,22.7,27.1,12,0,0.0,Healthy
+2026-11-02,NBH-KT-002,Bamboo Cutting Board (Large),363,0,,12.0,30.3,14,8,2720.0,Healthy
+2026-11-02,NBH-HM-002,Under-Bed Storage Bags (3 pk),569,0,,12.8,44.5,12,3,955.0,Healthy
+2026-11-02,NBH-BT-002,"Satin Pillowcase (Queen, 2 pk)",1020,0,,17.3,59.1,12,0,0.0,Healthy
