@@ -13,32 +13,32 @@ GitHub Actions runs the whole thing every morning, commits the new data, and ref
 ## Today's numbers
 
 <!-- KPI:START -->
-**Data through 2026-11-02** · last pipeline run 2026-11-03 20:32 UTC
+**Data through 2026-11-03** · last pipeline run 2026-11-04 20:51 UTC
 
 | Last 7 days | Value |
 |---|---|
-| Net sales | $36,787 (+0.3% vs prior 7 days) |
-| Orders | 1,046 |
-| ACoS (ad spend / ad sales) | 35.1% |
-| TACoS (ad spend / total sales) | 10.7% |
-| Contribution margin after ads | 31.4% |
+| Net sales | $36,171 (-2.3% vs prior 7 days) |
+| Orders | 1,026 |
+| ACoS (ad spend / ad sales) | 35.0% |
+| TACoS (ad spend / total sales) | 11.0% |
+| Contribution margin after ads | 31.2% |
 
 **Inventory alerts**
 
 | SKU | Product | On hand | Days of cover | Days until restock | Status |
 |---|---|---|---|---|---|
-| NBH-PT-001 | Dog Lick Mat (2 pk) | 2 | 0.1 | 9 | Stockout risk |
-| NBH-PT-002 | Cat Window Perch | 3 | 0.3 | 7 | Stockout risk |
+| NBH-PT-001 | Dog Lick Mat (2 pk) | 0 | 0.0 | 8 | OUT OF STOCK |
+| NBH-PT-002 | Cat Window Perch | 0 | 0.0 | 6 | OUT OF STOCK |
 
 **Campaigns losing money (last 30 days)** · 8 campaign(s) flagged to scale up
 
 | Campaign | ACoS | Break-even ACoS | Ad profit | Action |
 |---|---|---|---|---|
-| SP / NBH-KT-002 / Phrase | 71.6% | 41.0% | $-349 | Cut bids: losing money |
-| SP / NBH-KT-001 / Phrase | 64.6% | 43.2% | $-283 | Cut bids: losing money |
-| SP / NBH-PT-003 / Phrase | 63.3% | 47.1% | $-230 | Cut bids: losing money |
-| SP / NBH-HM-003 / Phrase | 46.0% | 41.8% | $-59 | Cut bids: losing money |
-| SP / NBH-HM-002 / Phrase | 48.0% | 41.1% | $-58 | Cut bids: losing money |
+| SP / NBH-KT-002 / Phrase | 73.1% | 41.0% | $-375 | Cut bids: losing money |
+| SP / NBH-KT-001 / Phrase | 65.9% | 43.2% | $-300 | Cut bids: losing money |
+| SP / NBH-PT-003 / Phrase | 61.2% | 47.1% | $-203 | Cut bids: losing money |
+| SP / NBH-HM-002 / Phrase | 52.8% | 41.1% | $-89 | Cut bids: losing money |
+| SP / NBH-HM-003 / Phrase | 47.2% | 41.8% | $-75 | Cut bids: losing money |
 <!-- KPI:END -->
 
 ![Dashboard](reports/dashboard.png)
