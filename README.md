@@ -13,32 +13,32 @@ GitHub Actions runs the whole thing every morning, commits the new data, and ref
 ## Today's numbers
 
 <!-- KPI:START -->
-**Data through 2026-11-03** · last pipeline run 2026-11-04 20:51 UTC
+**Data through 2026-11-04** · last pipeline run 2026-11-05 21:07 UTC
 
 | Last 7 days | Value |
 |---|---|
-| Net sales | $36,171 (-2.3% vs prior 7 days) |
-| Orders | 1,026 |
-| ACoS (ad spend / ad sales) | 35.0% |
-| TACoS (ad spend / total sales) | 11.0% |
-| Contribution margin after ads | 31.2% |
+| Net sales | $37,018 (+0.8% vs prior 7 days) |
+| Orders | 1,043 |
+| ACoS (ad spend / ad sales) | 34.6% |
+| TACoS (ad spend / total sales) | 10.6% |
+| Contribution margin after ads | 31.6% |
 
 **Inventory alerts**
 
 | SKU | Product | On hand | Days of cover | Days until restock | Status |
 |---|---|---|---|---|---|
-| NBH-PT-001 | Dog Lick Mat (2 pk) | 0 | 0.0 | 8 | OUT OF STOCK |
-| NBH-PT-002 | Cat Window Perch | 0 | 0.0 | 6 | OUT OF STOCK |
+| NBH-PT-001 | Dog Lick Mat (2 pk) | 0 | 0.0 | 7 | OUT OF STOCK |
+| NBH-PT-002 | Cat Window Perch | 0 | 0.0 | 5 | OUT OF STOCK |
 
 **Campaigns losing money (last 30 days)** · 8 campaign(s) flagged to scale up
 
 | Campaign | ACoS | Break-even ACoS | Ad profit | Action |
 |---|---|---|---|---|
-| SP / NBH-KT-002 / Phrase | 73.1% | 41.0% | $-375 | Cut bids: losing money |
-| SP / NBH-KT-001 / Phrase | 65.9% | 43.2% | $-300 | Cut bids: losing money |
-| SP / NBH-PT-003 / Phrase | 61.2% | 47.1% | $-203 | Cut bids: losing money |
-| SP / NBH-HM-002 / Phrase | 52.8% | 41.1% | $-89 | Cut bids: losing money |
-| SP / NBH-HM-003 / Phrase | 47.2% | 41.8% | $-75 | Cut bids: losing money |
+| SP / NBH-KT-002 / Phrase | 75.1% | 41.0% | $-399 | Cut bids: losing money |
+| SP / NBH-KT-001 / Phrase | 62.2% | 43.2% | $-269 | Cut bids: losing money |
+| SP / NBH-PT-003 / Phrase | 58.3% | 47.1% | $-170 | Cut bids: losing money |
+| SP / NBH-HM-002 / Phrase | 53.3% | 41.1% | $-93 | Cut bids: losing money |
+| SP / NBH-HM-003 / Phrase | 47.0% | 41.8% | $-74 | Cut bids: losing money |
 <!-- KPI:END -->
 
 ![Dashboard](reports/dashboard.png)
