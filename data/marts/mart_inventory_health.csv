@@ -1,13 +1,13 @@
 as_of_date,sku,title,fulfillable_qty,inbound_qty,inbound_eta,avg_daily_units_28d,days_of_cover,days_until_restock,days_out_of_stock_all_time,est_lost_revenue_all_time,status
-2026-11-06,NBH-PT-001,Dog Lick Mat (2 pk),0,1438,2026-11-11,31.2,0.0,5,11,4827.0,OUT OF STOCK
-2026-11-06,NBH-PT-002,Cat Window Perch,0,506,2026-11-09,10.6,0.0,3,4,1157.0,OUT OF STOCK
-2026-11-06,NBH-OF-001,Monitor Stand Riser with Drawer,43,464,2026-11-08,11.5,3.7,2,8,3401.0,Healthy
-2026-11-06,NBH-KT-003,Glass Meal Prep Containers (10 pk),193,962,2026-11-14,19.3,10.0,8,1,606.0,Healthy
-2026-11-06,NBH-BT-001,Jade Facial Roller & Gua Sha Set,406,0,,28.3,14.4,10,14,5772.0,Healthy
-2026-11-06,NBH-HM-003,Motion Sensor Closet Lights (4 pk),323,1062,2026-11-19,19.9,16.3,13,0,0.0,Healthy
-2026-11-06,NBH-HM-001,Linen Throw Pillow Covers (2 pk),309,0,,18.0,17.2,10,2,802.0,Healthy
-2026-11-06,NBH-PT-003,Pet Hair Remover Roller,521,0,,22.8,22.9,12,0,0.0,Healthy
-2026-11-06,NBH-KT-002,Bamboo Cutting Board (Large),317,0,,12.1,26.3,14,8,2721.0,Healthy
-2026-11-06,NBH-KT-001,Silicone Spatula Set (5 pc),855,0,,23.2,36.9,12,2,862.0,Healthy
-2026-11-06,NBH-HM-002,Under-Bed Storage Bags (3 pk),533,0,,12.6,42.4,12,3,950.0,Healthy
-2026-11-06,NBH-BT-002,"Satin Pillowcase (Queen, 2 pk)",965,0,,16.7,57.7,12,0,0.0,Healthy
+2026-11-07,NBH-PT-001,Dog Lick Mat (2 pk),0,1438,2026-11-11,31.6,0.0,4,12,5266.0,OUT OF STOCK
+2026-11-07,NBH-PT-002,Cat Window Perch,0,506,2026-11-09,10.7,0.0,2,5,1446.0,OUT OF STOCK
+2026-11-07,NBH-OF-001,Monitor Stand Riser with Drawer,32,464,2026-11-08,11.6,2.8,1,8,3402.0,Healthy
+2026-11-07,NBH-KT-003,Glass Meal Prep Containers (10 pk),176,962,2026-11-14,19.5,9.0,7,1,606.0,Healthy
+2026-11-07,NBH-BT-001,Jade Facial Roller & Gua Sha Set,384,0,,28.2,13.6,10,14,5768.0,Healthy
+2026-11-07,NBH-HM-003,Motion Sensor Closet Lights (4 pk),307,1062,2026-11-19,19.8,15.5,12,0,0.0,Healthy
+2026-11-07,NBH-HM-001,Linen Throw Pillow Covers (2 pk),294,0,,17.9,16.4,10,2,802.0,Healthy
+2026-11-07,NBH-PT-003,Pet Hair Remover Roller,502,0,,23.1,21.7,12,0,0.0,Healthy
+2026-11-07,NBH-KT-002,Bamboo Cutting Board (Large),302,0,,12.4,24.4,14,8,2727.0,Healthy
+2026-11-07,NBH-KT-001,Silicone Spatula Set (5 pc),830,0,,23.5,35.3,12,2,862.0,Healthy
+2026-11-07,NBH-HM-002,Under-Bed Storage Bags (3 pk),519,0,,12.5,41.6,12,3,951.0,Healthy
+2026-11-07,NBH-BT-002,"Satin Pillowcase (Queen, 2 pk)",946,0,,16.9,55.9,12,0,0.0,Healthy
