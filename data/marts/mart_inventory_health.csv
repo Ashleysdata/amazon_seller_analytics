@@ -1,13 +1,13 @@
 as_of_date,sku,title,fulfillable_qty,inbound_qty,inbound_eta,avg_daily_units_28d,days_of_cover,days_until_restock,days_out_of_stock_all_time,est_lost_revenue_all_time,status
-2026-11-08,NBH-PT-001,Dog Lick Mat (2 pk),0,1438,2026-11-11,31.5,0.0,3,13,5705.0,OUT OF STOCK
-2026-11-08,NBH-PT-002,Cat Window Perch,0,506,2026-11-09,10.5,0.0,1,6,1735.0,OUT OF STOCK
-2026-11-08,NBH-KT-003,Glass Meal Prep Containers (10 pk),155,962,2026-11-14,19.6,7.9,6,1,606.0,Healthy
-2026-11-08,NBH-BT-001,Jade Facial Roller & Gua Sha Set,351,0,,28.4,12.4,10,14,5783.0,Healthy
-2026-11-08,NBH-HM-003,Motion Sensor Closet Lights (4 pk),290,1062,2026-11-19,19.7,14.7,11,0,0.0,Healthy
-2026-11-08,NBH-HM-001,Linen Throw Pillow Covers (2 pk),273,0,,18.1,15.1,10,2,804.0,Healthy
-2026-11-08,NBH-PT-003,Pet Hair Remover Roller,485,0,,22.8,21.3,12,0,0.0,Healthy
-2026-11-08,NBH-KT-002,Bamboo Cutting Board (Large),282,0,,12.7,22.2,14,8,2742.0,Healthy
-2026-11-08,NBH-KT-001,Silicone Spatula Set (5 pc),807,0,,23.2,34.8,12,2,863.0,Healthy
-2026-11-08,NBH-HM-002,Under-Bed Storage Bags (3 pk),502,0,,12.8,39.1,12,3,954.0,Healthy
-2026-11-08,NBH-OF-001,Monitor Stand Riser with Drawer,489,0,,11.4,43.1,16,8,3393.0,Healthy
-2026-11-08,NBH-BT-002,"Satin Pillowcase (Queen, 2 pk)",927,0,,17.0,54.6,12,0,0.0,Healthy
+2026-11-09,NBH-PT-001,Dog Lick Mat (2 pk),0,1438,2026-11-11,31.2,0.0,2,14,6143.0,OUT OF STOCK
+2026-11-09,NBH-KT-003,Glass Meal Prep Containers (10 pk),137,962,2026-11-14,19.4,7.1,5,1,607.0,Healthy
+2026-11-09,NBH-BT-001,Jade Facial Roller & Gua Sha Set,326,1056,2026-11-19,28.0,11.6,10,14,5784.0,Healthy
+2026-11-09,NBH-HM-003,Motion Sensor Closet Lights (4 pk),267,1062,2026-11-19,20.0,13.4,10,0,0.0,Healthy
+2026-11-09,NBH-HM-001,Linen Throw Pillow Covers (2 pk),255,0,,17.8,14.3,10,2,804.0,Healthy
+2026-11-09,NBH-PT-003,Pet Hair Remover Roller,459,0,,23.0,20.0,12,0,0.0,Healthy
+2026-11-09,NBH-KT-002,Bamboo Cutting Board (Large),271,0,,12.7,21.3,14,8,2741.0,Healthy
+2026-11-09,NBH-KT-001,Silicone Spatula Set (5 pc),774,0,,23.6,32.8,12,2,866.0,Healthy
+2026-11-09,NBH-HM-002,Under-Bed Storage Bags (3 pk),483,0,,12.9,37.5,12,3,959.0,Healthy
+2026-11-09,NBH-OF-001,Monitor Stand Riser with Drawer,474,0,,11.5,41.1,16,8,3403.0,Healthy
+2026-11-09,NBH-PT-002,Cat Window Perch,493,0,,10.6,46.4,15,6,1741.0,Healthy
+2026-11-09,NBH-BT-002,"Satin Pillowcase (Queen, 2 pk)",912,0,,17.0,53.8,12,0,0.0,Healthy
