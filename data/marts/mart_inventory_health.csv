@@ -1,13 +1,13 @@
 as_of_date,sku,title,fulfillable_qty,inbound_qty,inbound_eta,avg_daily_units_28d,days_of_cover,days_until_restock,days_out_of_stock_all_time,est_lost_revenue_all_time,status
-2026-11-23,NBH-HM-001,Linen Throw Pillow Covers (2 pk),1,946,2026-12-03,18.4,0.1,10,2,813.0,Stockout risk
-2026-11-23,NBH-PT-003,Pet Hair Remover Roller,124,1310,2026-11-25,22.6,5.5,2,0,0.0,Healthy
-2026-11-23,NBH-KT-002,Bamboo Cutting Board (Large),119,791,2026-11-26,12.0,9.9,3,8,2729.0,Healthy
-2026-11-23,NBH-KT-001,Silicone Spatula Set (5 pc),414,0,,25.1,16.5,12,2,880.0,Healthy
-2026-11-23,NBH-HM-002,Under-Bed Storage Bags (3 pk),302,0,,12.9,23.4,12,3,970.0,Healthy
-2026-11-23,NBH-OF-001,Monitor Stand Riser with Drawer,319,0,,11.8,27.1,16,8,3416.0,Healthy
-2026-11-23,NBH-PT-002,Cat Window Perch,344,0,,11.7,29.3,15,6,1774.0,Healthy
-2026-11-23,NBH-PT-001,Dog Lick Mat (2 pk),1000,0,,32.2,31.1,10,15,6670.0,Healthy
-2026-11-23,NBH-BT-001,Jade Facial Roller & Gua Sha Set,993,0,,27.9,35.6,10,14,5862.0,Healthy
-2026-11-23,NBH-BT-002,"Satin Pillowcase (Queen, 2 pk)",674,0,,16.5,40.9,12,0,0.0,Healthy
-2026-11-23,NBH-KT-003,Glass Meal Prep Containers (10 pk),819,0,,19.9,41.2,14,1,615.0,Healthy
-2026-11-23,NBH-HM-003,Motion Sensor Closet Lights (4 pk),1044,0,,19.6,53.1,16,0,0.0,Healthy
+2026-11-24,NBH-HM-001,Linen Throw Pillow Covers (2 pk),0,946,2026-12-03,18.3,0.0,9,3,1220.0,OUT OF STOCK
+2026-11-24,NBH-PT-003,Pet Hair Remover Roller,99,1310,2026-11-25,22.8,4.3,1,0,0.0,Healthy
+2026-11-24,NBH-KT-002,Bamboo Cutting Board (Large),96,791,2026-11-26,12.6,7.6,2,8,2747.0,Healthy
+2026-11-24,NBH-KT-001,Silicone Spatula Set (5 pc),397,0,,24.9,16.0,12,2,879.0,Healthy
+2026-11-24,NBH-HM-002,Under-Bed Storage Bags (3 pk),283,0,,13.1,21.6,12,3,974.0,Healthy
+2026-11-24,NBH-OF-001,Monitor Stand Riser with Drawer,297,0,,12.0,24.7,16,8,3439.0,Healthy
+2026-11-24,NBH-PT-001,Dog Lick Mat (2 pk),951,0,,33.5,28.4,10,15,6699.0,Healthy
+2026-11-24,NBH-PT-002,Cat Window Perch,333,0,,11.5,28.8,15,6,1776.0,Healthy
+2026-11-24,NBH-BT-001,Jade Facial Roller & Gua Sha Set,961,0,,28.3,34.0,10,14,5874.0,Healthy
+2026-11-24,NBH-BT-002,"Satin Pillowcase (Queen, 2 pk)",653,0,,16.7,39.1,12,0,0.0,Healthy
+2026-11-24,NBH-KT-003,Glass Meal Prep Containers (10 pk),800,0,,19.8,40.5,14,1,615.0,Healthy
+2026-11-24,NBH-HM-003,Motion Sensor Closet Lights (4 pk),1018,0,,19.9,51.2,16,0,0.0,Healthy

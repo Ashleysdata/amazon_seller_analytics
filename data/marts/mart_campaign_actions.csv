@@ -1,25 +1,25 @@
 campaign_name,sku,title,targeting_type,impressions,clicks,spend_30d,ad_sales_30d,ctr,conversion_rate,acos,breakeven_acos,ad_profit_30d,recommendation
-SP / NBH-KT-002 / Phrase,NBH-KT-002,Bamboo Cutting Board (Large),Phrase,130310,528,971.59,1169.61,0.0041,0.0739,0.8307,0.4099,-492.28,Cut bids: losing money
-SP / NBH-PT-003 / Phrase,NBH-PT-003,Pet Hair Remover Roller,Phrase,223455,912,979.85,1367.43,0.0041,0.0625,0.7166,0.4707,-336.32,Cut bids: losing money
-SP / NBH-KT-001 / Phrase,NBH-KT-001,Silicone Spatula Set (5 pc),Phrase,204573,825,950.61,1479.26,0.004,0.0897,0.6426,0.4323,-311.25,Cut bids: losing money
-SP / NBH-HM-003 / Phrase,NBH-HM-003,Motion Sensor Closet Lights (4 pk),Phrase,186448,818,730.16,1429.35,0.0044,0.0795,0.5108,0.418,-132.81,Cut bids: losing money
-SP / NBH-OF-001 / Auto,NBH-OF-001,Monitor Stand Riser with Drawer,Auto,102089,345,527.94,1159.71,0.0034,0.0841,0.4552,0.3899,-75.83,Cut bids: losing money
-SP / NBH-HM-002 / Phrase,NBH-HM-002,Under-Bed Storage Bags (3 pk),Phrase,104394,425,400.47,811.71,0.0041,0.0682,0.4934,0.4106,-67.26,Cut bids: losing money
-SP / NBH-KT-002 / Auto,NBH-KT-002,Bamboo Cutting Board (Large),Auto,130360,462,554.67,1199.60,0.0035,0.0866,0.4624,0.4099,-63.07,Cut bids: losing money
-SP / NBH-BT-002 / Phrase,NBH-BT-002,"Satin Pillowcase (Queen, 2 pk)",Phrase,176752,739,586.26,1234.35,0.0042,0.088,0.475,0.4393,-44.16,Cut bids: losing money
-SP / NBH-PT-002 / Phrase,NBH-PT-002,Cat Window Perch,Phrase,70001,318,410.89,1022.69,0.0045,0.0975,0.4018,0.3893,-12.85,Cut bids: losing money
-SP / NBH-HM-001 / Exact,NBH-HM-001,Linen Throw Pillow Covers (2 pk),Exact,148420,916,1377.66,3123.75,0.0062,0.1365,0.441,0.4518,33.59,Hold
-SP / NBH-BT-001 / Phrase,NBH-BT-001,Jade Facial Roller & Gua Sha Set,Phrase,232380,979,608.60,1444.15,0.0042,0.0868,0.4214,0.4468,36.55,Hold
-SP / NBH-HM-001 / Auto,NBH-HM-001,Linen Throw Pillow Covers (2 pk),Auto,148553,545,556.00,1524.39,0.0037,0.1119,0.3647,0.4518,132.69,Hold
-SP / NBH-OF-001 / Exact,NBH-OF-001,Monitor Stand Riser with Drawer,Exact,101549,600,1385.73,3959.01,0.0059,0.165,0.35,0.3899,157.68,Hold
-SP / NBH-PT-002 / Exact,NBH-PT-002,Cat Window Perch,Exact,70236,454,579.12,2144.35,0.0065,0.1432,0.2701,0.3893,255.48,Hold
-SP / NBH-BT-002 / Auto,NBH-BT-002,"Satin Pillowcase (Queen, 2 pk)",Auto,177952,579,282.24,1253.34,0.0033,0.114,0.2252,0.4393,268.20,Scale: raise bids
-SP / NBH-HM-003 / Auto,NBH-HM-003,Motion Sensor Closet Lights (4 pk),Auto,186115,638,377.75,1627.26,0.0034,0.116,0.2321,0.418,302.31,Scale: raise bids
-SP / NBH-KT-001 / Exact,NBH-KT-001,Silicone Spatula Set (5 pc),Exact,204626,1245,1344.14,3818.09,0.0061,0.1534,0.352,0.4323,306.10,Hold
-SP / NBH-PT-001 / Exact,NBH-PT-001,Dog Lick Mat (2 pk),Exact,213812,1271,692.39,2443.37,0.0059,0.1282,0.2834,0.4364,373.63,Hold
-SP / NBH-PT-001 / Auto,NBH-PT-001,Dog Lick Mat (2 pk),Auto,214133,770,265.43,1558.96,0.0036,0.1351,0.1703,0.4364,414.73,Scale: raise bids
-SP / NBH-PT-003 / Auto,NBH-PT-003,Pet Hair Remover Roller,Auto,223070,831,586.94,2135.11,0.0037,0.1071,0.2749,0.4707,417.87,Scale: raise bids
-SP / NBH-KT-003 / Auto,NBH-KT-003,Glass Meal Prep Containers (10 pk),Auto,167236,557,424.16,2274.35,0.0033,0.1167,0.1865,0.4013,488.44,Scale: raise bids
-SP / NBH-HM-002 / Exact,NBH-HM-002,Under-Bed Storage Bags (3 pk),Exact,104319,643,583.62,2659.05,0.0062,0.1477,0.2195,0.4106,507.93,Scale: raise bids
-SP / NBH-BT-001 / Exact,NBH-BT-001,Jade Facial Roller & Gua Sha Set,Exact,231800,1458,873.25,3465.96,0.0063,0.1399,0.252,0.4468,675.11,Scale: raise bids
-SP / NBH-KT-003 / Exact,NBH-KT-003,Glass Meal Prep Containers (10 pk),Exact,167685,965,1074.66,4863.61,0.0058,0.144,0.221,0.4013,876.90,Scale: raise bids
+SP / NBH-KT-002 / Phrase,NBH-KT-002,Bamboo Cutting Board (Large),Phrase,130483,532,985.64,1289.57,0.0041,0.0808,0.7643,0.4099,-457.17,Cut bids: losing money
+SP / NBH-KT-001 / Phrase,NBH-KT-001,Silicone Spatula Set (5 pc),Phrase,204873,821,936.80,1459.27,0.004,0.0889,0.642,0.4323,-306.08,Cut bids: losing money
+SP / NBH-PT-003 / Phrase,NBH-PT-003,Pet Hair Remover Roller,Phrase,223993,903,971.57,1415.41,0.004,0.0653,0.6864,0.4707,-305.46,Cut bids: losing money
+SP / NBH-HM-003 / Phrase,NBH-HM-003,Motion Sensor Closet Lights (4 pk),Phrase,186696,808,718.09,1473.33,0.0043,0.0829,0.4874,0.418,-102.36,Cut bids: losing money
+SP / NBH-OF-001 / Auto,NBH-OF-001,Monitor Stand Riser with Drawer,Auto,102269,351,536.80,1159.71,0.0034,0.0826,0.4629,0.3899,-84.69,Cut bids: losing money
+SP / NBH-HM-002 / Phrase,NBH-HM-002,Under-Bed Storage Bags (3 pk),Phrase,104559,431,406.27,783.72,0.0041,0.065,0.5184,0.4106,-84.55,Cut bids: losing money
+SP / NBH-KT-002 / Auto,NBH-KT-002,Bamboo Cutting Board (Large),Auto,130455,467,562.85,1199.60,0.0036,0.0857,0.4692,0.4099,-71.25,Cut bids: losing money
+SP / NBH-PT-002 / Phrase,NBH-PT-002,Cat Window Perch,Phrase,70217,326,421.72,956.71,0.0046,0.089,0.4408,0.3893,-49.36,Cut bids: losing money
+SP / NBH-BT-002 / Phrase,NBH-BT-002,"Satin Pillowcase (Queen, 2 pk)",Phrase,176925,727,576.89,1234.35,0.0041,0.0894,0.4674,0.4393,-34.79,Cut bids: losing money
+SP / NBH-BT-001 / Phrase,NBH-BT-001,Jade Facial Roller & Gua Sha Set,Phrase,232840,971,602.50,1461.14,0.0042,0.0886,0.4123,0.4468,50.24,Hold
+SP / NBH-HM-001 / Exact,NBH-HM-001,Linen Throw Pillow Covers (2 pk),Exact,148675,923,1388.67,3248.70,0.0062,0.1408,0.4275,0.4518,79.03,Hold
+SP / NBH-HM-001 / Auto,NBH-HM-001,Linen Throw Pillow Covers (2 pk),Auto,148907,557,572.00,1499.40,0.0037,0.1077,0.3815,0.4518,105.40,Hold
+SP / NBH-OF-001 / Exact,NBH-OF-001,Monitor Stand Riser with Drawer,Exact,101666,607,1417.99,4078.98,0.006,0.168,0.3476,0.3899,172.19,Hold
+SP / NBH-BT-002 / Auto,NBH-BT-002,"Satin Pillowcase (Queen, 2 pk)",Auto,178188,573,279.17,1272.33,0.0032,0.1169,0.2194,0.4393,279.61,Scale: raise bids
+SP / NBH-KT-001 / Exact,NBH-KT-001,Silicone Spatula Set (5 pc),Exact,204828,1239,1342.22,3818.09,0.006,0.1542,0.3515,0.4323,308.02,Hold
+SP / NBH-HM-003 / Auto,NBH-HM-003,Motion Sensor Closet Lights (4 pk),Auto,186385,634,377.94,1649.25,0.0034,0.1183,0.2292,0.418,311.31,Scale: raise bids
+SP / NBH-PT-002 / Exact,NBH-PT-002,Cat Window Perch,Exact,70461,459,580.02,2309.30,0.0065,0.1525,0.2512,0.3893,318.78,Hold
+SP / NBH-PT-003 / Auto,NBH-PT-003,Pet Hair Remover Roller,Auto,223485,830,589.30,2111.12,0.0037,0.106,0.2791,0.4707,404.22,Scale: raise bids
+SP / NBH-PT-001 / Exact,NBH-PT-001,Dog Lick Mat (2 pk),Exact,214026,1291,704.74,2548.30,0.006,0.1317,0.2766,0.4364,407.06,Hold
+SP / NBH-PT-001 / Auto,NBH-PT-001,Dog Lick Mat (2 pk),Auto,214482,750,258.22,1528.98,0.0035,0.136,0.1689,0.4364,408.86,Scale: raise bids
+SP / NBH-KT-003 / Auto,NBH-KT-003,Glass Meal Prep Containers (10 pk),Auto,167492,556,422.92,2204.37,0.0033,0.1133,0.1919,0.4013,461.60,Scale: raise bids
+SP / NBH-HM-002 / Exact,NBH-HM-002,Under-Bed Storage Bags (3 pk),Exact,104569,630,568.63,2687.04,0.006,0.1524,0.2116,0.4106,534.41,Scale: raise bids
+SP / NBH-BT-001 / Exact,NBH-BT-001,Jade Facial Roller & Gua Sha Set,Exact,232250,1459,873.71,3431.98,0.0063,0.1385,0.2546,0.4468,659.47,Scale: raise bids
+SP / NBH-KT-003 / Exact,NBH-KT-003,Glass Meal Prep Containers (10 pk),Exact,168119,955,1064.29,4863.61,0.0057,0.1455,0.2188,0.4013,887.27,Scale: raise bids
