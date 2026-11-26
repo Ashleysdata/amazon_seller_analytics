@@ -13,31 +13,31 @@ GitHub Actions runs the whole thing every morning, commits the new data, and ref
 ## Today's numbers
 
 <!-- KPI:START -->
-**Data through 2026-11-24** · last pipeline run 2026-11-25 23:09 UTC
+**Data through 2026-11-25** · last pipeline run 2026-11-26 23:03 UTC
 
 | Last 7 days | Value |
 |---|---|
-| Net sales | $39,711 (+7.2% vs prior 7 days) |
-| Orders | 1,130 |
-| ACoS (ad spend / ad sales) | 33.6% |
-| TACoS (ad spend / total sales) | 10.7% |
-| Contribution margin after ads | 31.5% |
+| Net sales | $39,223 (+5.6% vs prior 7 days) |
+| Orders | 1,116 |
+| ACoS (ad spend / ad sales) | 33.4% |
+| TACoS (ad spend / total sales) | 10.5% |
+| Contribution margin after ads | 31.6% |
 
 **Inventory alerts**
 
 | SKU | Product | On hand | Days of cover | Days until restock | Status |
 |---|---|---|---|---|---|
-| NBH-HM-001 | Linen Throw Pillow Covers (2 pk) | 0 | 0.0 | 9 | OUT OF STOCK |
+| NBH-HM-001 | Linen Throw Pillow Covers (2 pk) | 0 | 0.0 | 8 | OUT OF STOCK |
 
 **Campaigns losing money (last 30 days)** · 8 campaign(s) flagged to scale up
 
 | Campaign | ACoS | Break-even ACoS | Ad profit | Action |
 |---|---|---|---|---|
-| SP / NBH-KT-002 / Phrase | 76.4% | 41.0% | $-457 | Cut bids: losing money |
-| SP / NBH-KT-001 / Phrase | 64.2% | 43.2% | $-306 | Cut bids: losing money |
-| SP / NBH-PT-003 / Phrase | 68.6% | 47.1% | $-305 | Cut bids: losing money |
-| SP / NBH-HM-003 / Phrase | 48.7% | 41.8% | $-102 | Cut bids: losing money |
-| SP / NBH-OF-001 / Auto | 46.3% | 39.0% | $-85 | Cut bids: losing money |
+| SP / NBH-KT-002 / Phrase | 78.2% | 41.0% | $-469 | Cut bids: losing money |
+| SP / NBH-KT-001 / Phrase | 67.5% | 43.2% | $-335 | Cut bids: losing money |
+| SP / NBH-PT-003 / Phrase | 62.4% | 47.1% | $-239 | Cut bids: losing money |
+| SP / NBH-HM-003 / Phrase | 51.0% | 41.8% | $-130 | Cut bids: losing money |
+| SP / NBH-KT-002 / Auto | 48.2% | 41.0% | $-87 | Cut bids: losing money |
 <!-- KPI:END -->
 
 ![Dashboard](reports/dashboard.png)
